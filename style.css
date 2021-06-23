@@ -565,11 +565,11 @@ footer {
   color: black;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .nav-bar-apps {
     display: none;
   }
   .footer-location {
-    min-width: 1000px;
+    min-width: 1100px;
   }
 }
