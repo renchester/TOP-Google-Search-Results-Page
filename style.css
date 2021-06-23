@@ -564,3 +564,12 @@ footer {
 .footer-links:hover {
   color: black;
 }
+
+@media (max-width: 1000px) {
+  .nav-bar-apps {
+    display: none;
+  }
+  .footer-location {
+    min-width: 1000px;
+  }
+}
